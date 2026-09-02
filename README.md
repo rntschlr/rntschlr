@@ -25,11 +25,11 @@ covering the failure modes I actually hit and how each was diagnosed.
 
 ### Projects
 
-| Repo | What it is | |
+| Repo | What it is | Live |
 |---|---|---|
 | [**homelab**](https://github.com/rntschlr/homelab) | Proxmox infrastructure — architecture, hardening, runbook | |
 | [**jkr.me**](https://github.com/rntschlr/jkr.me) | My portfolio site — React 19, TypeScript, Cloudflare Pages, bilingual | [live](https://johnkrentschler.me) |
-| [**hungary-tracker**](https://github.com/rntschlr/hungary-tracker) | Immigration document tracker for the Enter Hungary portal — built while going through it myself | |
+| [**hungary-tracker**](https://github.com/rntschlr/hungary-tracker) | Immigration document tracker for the Enter Hungary portal — built while going through it myself | [live](https://rntschlr.github.io/hungary-tracker/) |
 | [**travel-blog**](https://github.com/rntschlr/travel-blog) | Astro static site with a phone-friendly CMS, on GitHub Pages | [live](https://rntschlr.github.io/travel-blog/) |
 | [**market-pulse**](https://github.com/rntschlr/market-pulse) | Python CLI for live crypto prices with colour-coded changes | |
 
